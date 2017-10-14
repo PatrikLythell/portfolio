@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-loader": "^2.0.1",
+    "markdown-with-front-matter-loader": "^0.1.0",
+    "nuxt": "^1.0.0-rc11",
+    "vue-markdown-loader": "^2.2.1",
+    "yaml-markdown-loader": "^3.2.2"
+  }
+}
