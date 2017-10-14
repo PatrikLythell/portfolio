@@ -7,4 +7,4 @@ rating: '3'
 ---
 All I've seen is this damn bug.
 
-![undefined](/static/images/2 (1).png)
+![undefined](/static/images/logo-for-base-64.png)
