@@ -6,3 +6,5 @@ thumbnail: /static/images/1.png
 rating: '3'
 ---
 All I've seen is this damn bug.
+
+![undefined](/static/images/2 (1).png)
